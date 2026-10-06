@@ -1,4 +1,4 @@
-# Invitation Digitale — Divin & Espérance
+# Invitation Digitale — Didier & Diane
 
 Invitation de mariage premium **Deux Cœurs, Une Destinée** — 20 Décembre 2030, Abomey-Calavi, Bénin.
 
@@ -92,5 +92,5 @@ En attendant, les réponses sont enregistrées dans `localStorage` (clé `rsvp_r
 
 ## Couple
 
-**KOUTREMON Divin** & **DJABLOU Espérance**  
+
 20 Décembre 2030 · Abomey-Calavi, Bénin
